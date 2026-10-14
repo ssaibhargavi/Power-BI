@@ -43,7 +43,7 @@ Users can filter data based on:
 - Order Year
 - State
 
-## Key Insights## Key Insights
+## Key Insights
 - Standard Class shipping contributes the highest sales and profit.
 - Furniture category generates the highest sales among all categories.
 - Certain cities such as Bhopal and Ahmedabad contribute significantly to revenue.
